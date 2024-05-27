@@ -1,4 +1,3 @@
-```markdown
 # Blox.xyz Assignment
 
 ## Overview
